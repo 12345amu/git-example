@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from Remote
+=======
+Hello from Local
+>>>>>>> a7566c3 (Local commit)
