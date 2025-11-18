@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello from Remote
 =======
 Hello from Local
 >>>>>>> a7566c3 (Local commit)
+=======
+Hotfix line
+>>>>>>> 56bece2 (Add login page UI)
