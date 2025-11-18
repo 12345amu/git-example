@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome from Main Branch
+=======
+Welcome from Feature Branch
+>>>>>>> 1804c9b (Feature change)
